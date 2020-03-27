@@ -5,5 +5,6 @@ The following table shows conceptual mappings between KF entities and FHIR profi
 
 | Kids First            | FHIR                  |
 |-----------------------|-----------------------|
+| `participant`         | `Patient`             |
 
 Our mapping effort in progress is documented at [KF FHIR Model Mappings](https://docs.google.com/spreadsheets/d/19tQnE75UzvP_k29D-QprbsJ-6ZO2PdUmKPiWHKkcTEg/edit#gid=1197884015).
